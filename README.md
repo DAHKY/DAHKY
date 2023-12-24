@@ -10,12 +10,12 @@
 • Do you have any questions or problems? I can certainly help you, here is my [Discord.](https://discord.com/users/1060513829290790972)
 
 ## LANGUAGES
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+• ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+• ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+• ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## PROJECTS
-• Bottery, this is my upcoming project for 2024, a shop where I sell professional and cheap Discord bots. Are you interested in joining? Then come to the [Discord](https://discord.gg/q8hgdpPznw). 
+• Bottery, this is my upcoming project for 2024, a shop where I sell professional and cheap Discord bots. Are you interested in joining and being part of the bottery team? Then come to the [Discord](https://discord.gg/q8hgdpPznw). 
 
 ## STATS
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henganto&theme=dark)](https://github.com/henganto/github-readme-stats)
