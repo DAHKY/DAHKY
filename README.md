@@ -9,8 +9,6 @@
 
 • Do you have any questions or problems? I can certainly help you, here is my [Discord.](https://discord.com/users/1060513829290790972)
 
-• [Bottery](https://discord.gg/q8hgdpPznw), my discord server where I sell discord bots for cheap.
-
 ## LANGUAGES AND MY DISCORD
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,5 +17,8 @@
 ## STATS
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henganto&theme=dark)](https://github.com/henganto/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=henganto&theme=dark)](https://git.io/streak-stats)
+
+## MY PROJECT
+• [Bottery](https://discord.gg/q8hgdpPznw), my discord server where I sell discord bots for cheap.
 
 
