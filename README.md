@@ -15,3 +15,7 @@
 ## STATS
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henganto&theme=dark)](https://github.com/henganto/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=henganto&theme=dark)](https://git.io/streak-stats)
+
+<p align="right">
+  <img align="center" src="https://komarev.com/ghpvc/?username=henganto&label=Profile%20views&color=0e75b6&style=flat" alt="henganto"/>
+</p>
