@@ -15,7 +15,8 @@
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## PROJECTS
-• You would like to have a professional discord bot? with all the functions that are available and one that you have always wanted? then [Bottery](https://discord.gg/q8hgdpPznw) is the right place for you!
+• You would like to have a professional discord bot? 
+• with all the functions that are available and one that you have always wanted? then [Bottery](https://discord.gg/q8hgdpPznw) is the right place for you!
 
 ## STATS
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henganto&theme=dark)](https://github.com/henganto/github-readme-stats)
