@@ -9,7 +9,7 @@
 
 • Do you have any questions or problems? I can certainly help you, here is my [Discord.](https://discord.com/users/1060513829290790972)
 
-• Bottery, that's the name of my current discord bot project where I sell discord bots for cheap. are you interested? here is the [discord server](https://discord.gg/q8hgdpPznw).
+• [Bottery](https://discord.gg/q8hgdpPznw), my discord server where I sell discord bots for cheap.
 
 ## LANGUAGES AND MY DISCORD
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
