@@ -15,8 +15,7 @@
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## PROJECTS
-• You would like to have a professional discord bot? 
-• with all the functions that are available and one that you have always wanted? then [Bottery](https://discord.gg/q8hgdpPznw) is the right place for you!
+• Bottery, this is my upcoming project for 2024, a shop where I sell professional and cheap Discord bots. Are you interested in joining? Then come to the [Discord](https://discord.gg/q8hgdpPznw). 
 
 ## STATS
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henganto&theme=dark)](https://github.com/henganto/github-readme-stats)
