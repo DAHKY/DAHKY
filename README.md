@@ -7,11 +7,14 @@
 
 • My nationality is German and I am motivated to continue programming, I try to do my best and become the best.
 
-## LANGUAGES
+## LANGUAGES AND MY DISCORD
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+[![](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/1060513829290790972)
 
 ## STATS
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henganto&theme=dark)](https://github.com/henganto/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=henganto&theme=dark)](https://git.io/streak-stats)
+
+
