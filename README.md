@@ -15,8 +15,6 @@
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## PROJECTS
-• Bottery, this is my upcoming project for 2024, a shop where I sell professional and cheap Discord bots. Are you interested in joining and being part of the bottery team? Then come to the [Discord](https://discord.gg/q8hgdpPznw). 
-
 • Flash Development, this is not my project but a project where I am involved as a content writer and twitch moderator. maybe I will also work in bot development. Here is the [Discord](https://discord.gg/fqzZ2pvTgG).
 
 ## STATS
