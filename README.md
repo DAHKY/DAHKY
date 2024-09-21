@@ -14,9 +14,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## PROJECTS
-• Flash Development, this is not my project but a project where I am involved as a content writer and twitch moderator. maybe I will also work in bot development. Here is the [Discord](https://discord.gg/fqzZ2pvTgG).
-
 ## STATS
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henganto&theme=dark)](https://github.com/henganto/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=henganto&theme=dark)](https://git.io/streak-stats)
