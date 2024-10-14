@@ -15,6 +15,6 @@
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## STATS
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henganto&theme=dark)](https://github.com/henganto/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=henganto&theme=dark)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dahky&theme=dark)](https://github.com/dahky/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dahky&theme=dark)](https://git.io/streak-stats)
 
