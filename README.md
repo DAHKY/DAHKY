@@ -1,5 +1,5 @@
 # DAHKY
-•  My name is Dahky, I am a passionate Python programmer.
+•  My name is Delane Stegelmann, I am a passionate Python programmer.
 
 • I'm currently programming Discord bots with [Pycord](https://docs.pycord.dev/en/stable/index.html) and [Ezcord.](https://ezcord.readthedocs.io/en/latest/)
 
