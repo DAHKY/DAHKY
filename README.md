@@ -1,9 +1,9 @@
 # DAHKY
-•  My name is Delane Stegelmann, I am a passionate Python programmer.
+•  My name is Delane Stegelmann. I am 18 years old and a passionate programmer. I love to search for and find bugs, I like the challenge.
 
-• I'm currently programming Discord bots with [Pycord](https://docs.pycord.dev/en/stable/index.html) and [Ezcord.](https://ezcord.readthedocs.io/en/latest/)
+• If I program Discord bots then with [Pycord](https://docs.pycord.dev/en/stable/index.html) and [Ezcord.](https://ezcord.readthedocs.io/en/latest/)
 
-• My experience is mainly based on html and css. This experience is based on 3 years.
+• My experience is mainly based on html and css. This experience is based on 1 year. My Lua experience is based on 4 years.
 
 • My nationality is German and I am motivated to continue programming, I try to do my best and become the best.
 
