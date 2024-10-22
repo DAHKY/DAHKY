@@ -3,7 +3,7 @@
 
 • If I program Discord bots then with [Pycord](https://docs.pycord.dev/en/stable/index.html) and [Ezcord.](https://ezcord.readthedocs.io/en/latest/)
 
-• My experience is mainly based on html and css. This experience is based on 1 year. My Lua experience is based on 4 years.
+• My experience is mainly based on Lua. This experience is based on 4 years. But I also have experience with HTML and CSS.
 
 • My nationality is German and I am motivated to continue programming, I try to do my best and become the best.
 
