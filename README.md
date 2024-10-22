@@ -7,7 +7,7 @@
 
 • My nationality is German and I am motivated to continue programming, I try to do my best and become the best.
 
-• Do you have any questions or problems? I can certainly help you, here is my [Discord.](https://discord.com/users/1060513829290790972)
+• Do you have any questions or problems? I can certainly help you, here is my [Discord.](https://discord.com/users/314014663526318080)
 
 ## LANGUAGES
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
