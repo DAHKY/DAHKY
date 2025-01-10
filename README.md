@@ -1,4 +1,4 @@
-# that's me
+## that's me
 •  My name is Delane Stegelmann. I am 18 years old and a passionate programmer. I love to search for and find bugs, I like the challenge.
 
 • If I program Discord bots then with [Pycord](https://docs.pycord.dev/en/stable/index.html) and [Ezcord.](https://ezcord.readthedocs.io/en/latest/)
