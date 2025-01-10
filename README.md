@@ -13,16 +13,23 @@
 
 • I actually wrote my first plugins when i was 14 and that was with minecraft script, so i found my interest to expand and go deeper into programming minecraft plugins.
 
-## upcoming projects / targets 2025
+## Upcoming Projects / Targets 2025
 
-• I'm currently learning Java programming and am interested in applying my skills to develop Minecraft mods or plugins.
+**Goal:** Learn Java programming and apply it to Minecraft mod or plugin development.
 
 **Skills:**
-• Java basics
 
-• Minecraft modding concepts (if applicable)
+* Java basics
+* Minecraft modding concepts (if applicable)
 
 **Projects:**
-• (List any Minecraft Java projects you're working on)
 
-• I'm using IntelliJ IDEA to program and I'm always open to suggestions for improvement or general ideas.
+* (List any Minecraft Java projects you're working on)
+
+**Tools:**
+
+* IntelliJ IDEA
+
+**Contributions:**
+
+I'm always open to suggestions for improvement or general ideas. Please feel free to leave a comment or open an issue.
