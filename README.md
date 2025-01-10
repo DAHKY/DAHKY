@@ -30,7 +30,7 @@
 
 **Tools:**
 
-* IntelliJ IDEA
+* IntelliJ IDEA Community
 
 **Contributions:**
 
