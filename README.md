@@ -1,26 +1,33 @@
-# DAHKY
-•  My name is Delane Stegelmann. I am 18 years old and a passionate programmer. I love to search for and find bugs, I like the challenge.
+## DAHKY
 
-• If I program Discord bots then with [Pycord](https://docs.pycord.dev/en/stable/index.html) and [Ezcord.](https://ezcord.readthedocs.io/en/latest/)
+**Über mich**
 
-• My experience is mainly based on Lua. This experience is based on 4 years. But I also have experience with HTML and CSS.
+Mein Name ist Delane Stegelmann und ich bin ein 18-jähriger Programmier-Enthusiast. Ich liebe es, nach Fehlern zu suchen und herausfordernde Probleme zu lösen.
 
-• My nationality is German and I am motivated to continue programming, I try to do my best and become the best.
+**Meine Skills**
 
-• Do you have any questions or problems? I can certainly help you, here is my [Discord.](https://discord.com/users/314014663526318080)
+* **Discord-Bots:** Ich erstelle Discord-Bots mit den leistungsstarken Bibliotheken **Pycord** und **Ezcord**. 
+* **Programmiersprachen:** Python (mit Schwerpunkt auf Discord-Bots), Lua (4 Jahre Erfahrung), HTML, CSS
+* **Minecraft Java:** Aktuell erweitere ich meine Kenntnisse in Java, um Minecraft-Mods zu entwickeln.
 
-## Projects / Goals 2025
+**Projekte**
 
-I am currently learning Java programming and am interested in applying my skills to develop Minecraft mods or plugins.
+* **[Link zu deinem ersten Discord-Bot-Projekt]** (Kurzbeschreibung)
+* **[Link zu deinem zweiten Discord-Bot-Projekt]** (Kurzbeschreibung)
+* **[Link zu deinem Minecraft-Java-Projekt]** (Kurzbeschreibung)
 
-**Skills:**
+**GitHub Stats**
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dahky&theme=dark)](https://github.com/dahky/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/user=dahky&theme=dark)](https://git.io/streak-stats)
 
-* Java basics
-* Minecraft modding concepts (if applicable)
+**Kontakt**
+Discord: [https://discord.com/users/314014663526318080](https://discord.com/users/314014663526318080)
 
-**Projects:**
+**Ich bin immer offen für neue Herausforderungen und lerne gerne dazu!**
 
-* (List any Minecraft Java projects you're working on)
-
-## LANGUAGES
-[![Java](https://img.shields.io/badge/Minecraft%20Java-learning-orange.svg)](https://www.minecraft.net/en-us/game/java-edition/)
+**Tech-Stack**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo-badge&logoColor=white)
+![LUA](https://img.shields.io/badge/lua-3670A0?style=for-the-badge&logo=lua&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft%20Java-learning-orange.svg)
