@@ -12,4 +12,4 @@ Mein Name ist Delane Stegelmann und ich bin ein 18-jähriger Programmier-Enthusi
 
 ## SPRACHEN
 
-![Minecraft](https://img.shields.io/badge/Minecraft%20Java.svg)
+![Minecraft](https://img.shields.io/badge/Minecraft%20-orangeJava.svg)
