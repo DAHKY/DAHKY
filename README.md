@@ -1,15 +1,23 @@
-## DAHKY
+# DAHKY
+•  My name is Delane Stegelmann. I am 18 years old and a passionate programmer. I love to search for and find bugs, I like the challenge.
 
-**Über mich**
+• If I program Discord bots then with [Pycord](https://docs.pycord.dev/en/stable/index.html) and [Ezcord.](https://ezcord.readthedocs.io/en/latest/)
 
-Mein Name ist Delane Stegelmann und ich bin ein 18-jähriger Programmier-Enthusiast. Ich liebe es, nach Fehlern zu suchen und herausfordernde Probleme zu lösen.
+• My experience is mainly based on Lua. This experience is based on 4 years. But I also have experience with HTML and CSS.
 
-**Meine Skills**
+• My nationality is German and I am motivated to continue programming, I try to do my best and become the best.
 
-* **Discord-Bots:** Ich erstelle Discord-Bots mit den leistungsstarken Bibliotheken **Pycord** und **Ezcord**. 
-* **Programmiersprachen:** Python (mit Schwerpunkt auf Discord-Bots), Lua (4 Jahre Erfahrung), HTML, CSS
-* **Minecraft Java:** Aktuell erweitere ich meine Kenntnisse in Java, um Minecraft-Mods zu entwickeln.
+• Do you have any questions or problems? I can certainly help you, here is my [Discord.](https://discord.com/users/314014663526318080)
 
-## SPRACHEN
+## upcoming projects / targets 2025
 
-![Minecraft](https://img.shields.io/badge/Minecraft%20-orangeJava.svg)
+I am currently learning Java programming and am interested in applying my skills to develop Minecraft mods or plugins.
+
+**Skills:**
+
+* Java basics
+* Minecraft modding concepts (if applicable)
+
+**Projects:**
+
+* (List any Minecraft Java projects you're working on)
