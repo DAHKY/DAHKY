@@ -19,8 +19,10 @@
 
 **Skills:**
 • Java basics
+
 • Minecraft modding concepts (if applicable)
 
 **Projects:**
 • (List any Minecraft Java projects you're working on)
+
 • I'm using IntelliJ IDEA to program and I'm always open to suggestions for improvement or general ideas.
