@@ -10,11 +10,11 @@ Mein Name ist Delane Stegelmann und ich bin ein 18-jähriger Programmier-Enthusi
 * **Programmiersprachen:** Python (mit Schwerpunkt auf Discord-Bots), Lua (4 Jahre Erfahrung), HTML, CSS
 * **Minecraft Java:** Aktuell erweitere ich meine Kenntnisse in Java, um Minecraft-Mods zu entwickeln.
 
-**Kontakt**
-Discord: [https://discord.com/users/314014663526318080](ADD/DAHKY)
+## SPRACHEN
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo-badge&logoColor=white)
+![Python](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg)
+![Pycord](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pycord.svg)
+![Ezcord](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/custom/ezcord.svg) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![LUA](https://img.shields.io/badge/lua-3670A0?style=for-the-badge&logo=lua&logoColor=white)
 ![Minecraft](https://img.shields.io/badge/Minecraft%20Java-learning-orange.svg)
