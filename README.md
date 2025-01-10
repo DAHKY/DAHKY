@@ -13,7 +13,7 @@
 
 • I actually wrote my first plugins when i was 14 and that was with minecraft script, so i found my interest to expand and go deeper into programming minecraft plugins.
 
-## Upcoming Projects / Targets 2025
+## upcoming projects / targets 2025
 
 **Goal:** Learn Java programming and apply it to Minecraft mod or plugin development.
 
@@ -24,7 +24,9 @@
 
 **Projects:**
 
-* (List any Minecraft Java projects you're working on)
+* a small mini-game with a menu where you can play tic tac toe.
+* create a mod that adds a new biome, with its own plants, animals and structures.
+
 
 **Tools:**
 
