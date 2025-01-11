@@ -1,4 +1,4 @@
-<p align="center">👋 Hi there! I'm Delane Stegelmann <br> 
+<p align="center">👋 Hi there! I'm DAHKY <br> 
   👀 I’m passionate about programming, especially finding and fixing bugs <br> 
   📫 You can contact me over discord: @DAHKY <br> 
   ✨ My own Website: <a href="https://dahky.de" style="color: #2196F3;">https://dahky.de</a>
