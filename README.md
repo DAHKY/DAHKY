@@ -1,7 +1,7 @@
-<p align="center">👋 Hey! I'm DAHKY <br> 
-  👨‍💻 I'm a passionate coder with a knack for debugging and solving complex challenges <br> 
-  💬 Feel free to reach out to me on Discord: @DAHKY <br> 
-  🌐 Check out my personal website: <a href="https://dahky.de" style="color: #2196F3;">dahky.de</a>
+<p align="center">👋 Hi, I'm DAHKY <br> 
+  👨‍💻 I love coding, especially debugging and solving problems <br> 
+  📫 Reach me on Discord: @DAHKY <br> 
+  🌐 My website: <a href="https://dahky.de" style="color: #2196F3;">dahky.de</a>
 </p>
 
 <br>
@@ -14,29 +14,21 @@
 
 <br>
 
-<p align="center" style="font-size: 18px; color: #444;">
-  🚀 I’m always exploring new ways to improve my coding skills. From debugging complex issues to building powerful tools, I’m always up for a challenge. <br>
-  🔧 My toolbox includes everything from Discord bots (built with Pycord and Ezcord) to Minecraft plugins, and I’m always learning new languages and frameworks. <br>
-  🌍 Proudly German and focused on building a diverse skillset in the programming world. <br>
-  💡 Got a problem? Let’s solve it together! Reach me anytime on Discord and let's chat about tech and development. <br>
-  👾 I write my code using IntelliJ IDEA and am constantly open to feedback and suggestions for improvement. <br>
-  🎮 I started developing Minecraft plugins at 14, and since then, I’ve been passionate about expanding my knowledge and diving deeper into coding. <br>
+<p align="center" style="font-size: 16px; color: #444;">
+  🚀 Passionate about coding and problem-solving <br>
+  💬 Discord: @DAHKY – Let’s talk tech! <br>
+  🎮 Started with Minecraft plugins at 14, now exploring Java <br>
+  🧰 Tools: IntelliJ IDEA, Pycord, Ezcord <br>
+  🌱 Always learning and open to feedback!
 </p>
 
 <br>
 
-<p align="center" style="font-size: 20px; font-weight: bold; color: #FF5722;">What's Next? My Goals for 2025</p>
+<p align="center" style="font-size: 18px; font-weight: bold; color: #FF5722;">Upcoming Goals</p>
 
-<p align="center" style="font-size: 16px; line-height: 1.8; color: #444;">
-  🎯 Goal: Dive into Java and start applying it to Minecraft modding and plugin creation. <br>
-  🧰 Skills I’m Working On:<br>
-  - Java basics <br>
-  - Advanced Minecraft modding techniques <br>
-  🛠️ Upcoming Projects:<br>
-  - A fun Tic Tac Toe mini-game with an interactive menu. <br>
-  - A custom mod introducing a new biome with its own plants, animals, and structures. <br>
-  🖥️ Tools I Use:<br>
-  - IntelliJ IDEA Community <br>
-  💬 Contributions: <br>
-  - Open to new ideas, feedback, and contributions! Let’s make something great together.
+<p align="center" style="font-size: 14px; color: #444;">
+  - Master Java for Minecraft modding <br>
+  - Build a Tic Tac Toe mini-game <br>
+  - Create a mod with a new biome <br>
+  - Always open to suggestions!
 </p>
