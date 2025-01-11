@@ -18,7 +18,7 @@
   🚀 Passionate about coding and problem-solving <br>
   💬 Discord: @DAHKY – Let’s talk tech! <br>
   🎮 Started with Minecraft plugins at 14, now exploring Java <br>
-  🧰 Tools: IntelliJ IDEA, Pycord, Ezcord <br>
+  🧰 Tools: IntelliJ IDEA, Visual Studio Code, Eclipse, PyCharm, NetBeans, Git<br>
   🌱 Always learning and open to feedback!
 </p>
 <br>
