@@ -1,10 +1,10 @@
-<p align="center">👋 Hi there! I'm Delane Stegelmann <br> 👀 I’m passionate about programming, especially finding and fixing bugs <br> 📫 You can contact me over discord: @zanexGHG <br> ✨ My own Website: https://zanex.dev/</p>
+<p align="center">👋 Hi there! I'm Delane Stegelmann <br> 👀 I’m passionate about programming, especially finding and fixing bugs <br> 📫 You can contact me over discord: @DAHKY <br> ✨ My own Website: https://dahky.de</p>
 
 <br>
 
 <p align="center">  
-  <a href="https://github.com/zanexGHG">
-    <img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=zanexGHG&theme=transparent&hide_border=true&border_radius=0"/>
+  <a href="https://github.com/DAHKY">
+    <img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=DAHKY&theme=transparent&hide_border=true&border_radius=0"/>
   </a>
 </p>
 
