@@ -23,12 +23,3 @@
 </p>
 
 <br>
-
-<p align="center" style="font-size: 18px; font-weight: bold; color: #FF5722;">Upcoming Goals</p>
-
-<p align="center" style="font-size: 14px; color: #444;">
-  - Master Java for Minecraft modding <br>
-  - Build a Tic Tac Toe mini-game <br>
-  - Create a mod with a new biome <br>
-  - Always open to suggestions!
-</p>
