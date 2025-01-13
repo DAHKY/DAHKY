@@ -18,6 +18,6 @@
   🚀 Passionate about coding and problem-solving <br>
   🎮 Started with Minecraft plugins at 14, now exploring Java <br>
   🧰 Tools: IntelliJ IDEA, Eclipse, PyCharm, NetBeans, Git<br>
-  🌱 Always learning and open to feedback!
+  🌱 Always learning and open to feedback
 </p>
 <br>
